@@ -12,6 +12,7 @@ fn main() {
         "Know yourself. - Socrates",
         "It's not what happens to you, but how you react to it that matters. - Epictetus",
         "The only true wisdom is in knowing you know nothing. - Socrates",
+        "The mind that is anxious about future events is miserable. - Seneca",
     ];
 
     let mut rng = thread_rng();
