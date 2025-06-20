@@ -1,7 +1,6 @@
 #!/usr/bin/env rust
 
-use rand::seq::SliceRandom;
-use rand::thread_rng;
+use std::time::{SystemTime, UNIX_EPOCH};
 
 fn main() {
     let stoic_quotes = vec![
@@ -12,11 +11,16 @@ fn main() {
         "Know yourself. - Socrates",
         "It's not what happens to you, but how you react to it that matters. - Epictetus",
         "The only true wisdom is in knowing you know nothing. - Socrates",
+        "The mind that is anxious about future events is miserable. - Seneca",
+        "Don't explain your philosophy. Embody it. - Epictetus",
     ];
 
-    let mut rng = thread_rng();
-    let quote = stoic_quotes.choose(&mut rng).unwrap();
+    let now = SystemTime::now()
+        .duration_since(UNIX_EPOCH)
+        .expect("Time went backwards")
+        .as_nanos();
+    let index = (now % stoic_quotes.len() as u128) as usize;
+    let quote = stoic_quotes[index];
 
     println!("{}", quote);
 }
-
