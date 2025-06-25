@@ -14,6 +14,7 @@ fn main() {
         "The mind that is anxious about future events is miserable. - Seneca",
         "Don't explain your philosophy. Embody it. - Epictetus",
         "Attention(prosochê) is a continuous vigilance and presence of mind, self-consciousness which never sleeps. — Paraphrased from Epictetus’ Discourses, esp. 4.12, via modern Stoic interpretations.",
+        "You have power over your mind — not outside events. Realize this, and you will find strength.— Marcus Aurelius, Meditations",
     ];
 
     let now = SystemTime::now()
