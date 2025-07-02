@@ -16,6 +16,7 @@ fn main() {
         "Attention(prosochê) is a continuous vigilance and presence of mind, self-consciousness which never sleeps. — Paraphrased from Epictetus’ Discourses, esp. 4.12, via modern Stoic interpretations.",
         "You have power over your mind — not outside events. Realize this, and you will find strength.— Marcus Aurelius, Meditations",
         "Difficulties strengthen the mind, as labor does the body. - Seneca",
+        "He who is brave is free. - Seneca",
     ];
 
     let now = SystemTime::now()
