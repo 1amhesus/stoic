@@ -17,6 +17,7 @@ fn main() {
         "You have power over your mind — not outside events. Realize this, and you will find strength.— Marcus Aurelius, Meditations",
         "Difficulties strengthen the mind, as labor does the body. - Seneca",
         "He who is brave is free. - Seneca",
+        "You've endured countless troubles - all from not letting your ruling reason so the work it was made for - enough already!- Marcus Aurelius, Meditations, 9.26 ",
     ];
 
     let now = SystemTime::now()
