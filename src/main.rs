@@ -20,7 +20,8 @@ fn main() {
         "You've endured countless troubles - all from not letting your ruling reason so the work it was made for - enough already!- Marcus Aurelius, Meditations, 9.26 ",
         "Waste no more time arguing what a good man should be. Be one.” – Marcus Aurelius",
         "Man conquers the world by conquering himself. — Zeno of Citium",
-        "Better to trip with the feet than with the tongue. - Zeno"
+        "Better to trip with the feet than with the tongue. - Zeno",
+        "Know well what leads you forward and what holds you back, and choose the path that leads you to wisdom. - Buddha"
     ];
 
     let now = SystemTime::now()
