@@ -21,8 +21,8 @@ fn main() {
         "Waste no more time arguing what a good man should be. Be one.” – Marcus Aurelius",
         "Man conquers the world by conquering himself. — Zeno of Citium",
         "Better to trip with the feet than with the tongue. - Zeno",
-        "Know well what leads you forward and what holds you back, and choose the path that leads you to wisdom. - Buddha"
-        "행복은 사물 그 자체가 아니라, 우리가 그것을 어떻게 받아들이느냐에 달려 있다. — 에픽테토스, 담화록"
+        "Know well what leads you forward and what holds you back, and choose the path that leads you to wisdom. - Buddha",
+        "행복은 사물 그 자체가 아니라, 우리가 그것을 어떻게 받아들이느냐에 달려 있다. — 에픽테토스, 담화록",
     ];
 
     let now = SystemTime::now()
