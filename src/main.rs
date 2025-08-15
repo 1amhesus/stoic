@@ -23,6 +23,7 @@ fn main() {
         "Better to trip with the feet than with the tongue. - Zeno",
         "Know well what leads you forward and what holds you back, and choose the path that leads you to wisdom. - Buddha",
         "행복은 사물 그 자체가 아니라, 우리가 그것을 어떻게 받아들이느냐에 달려 있다. — 에픽테토스, 담화록",
+        "Focus your energy on what is within your control. — Epictetus",
     ];
 
     let now = SystemTime::now()
