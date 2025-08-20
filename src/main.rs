@@ -25,6 +25,7 @@ fn main() {
         "행복은 사물 그 자체가 아니라, 우리가 그것을 어떻게 받아들이느냐에 달려 있다. — 에픽테토스, 담화록",
         "Focus your energy on what is within your control. — Epictetus",
         "Direct your energy toward what you can control. — Epictetus",
+        "Some things are up to us, and some are not. Up to us are our opinions, desires, and aversions—in short, whatever is our own doing. Not up to us are the body, property, reputation, and office—in short, whatever is not our own doing. — Epictetus, Enchiridion 1",
     ];
 
     let now = SystemTime::now()
