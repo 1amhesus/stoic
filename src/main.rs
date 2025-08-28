@@ -26,7 +26,8 @@ fn main() {
         "Focus your energy on what is within your control. — Epictetus",
         "Direct your energy toward what you can control. — Epictetus",
         "Some things are up to us, and some are not. Up to us are our opinions, desires, and aversions—in short, whatever is our own doing. Not up to us are the body, property, reputation, and office—in short, whatever is not our own doing. — Epictetus, Enchiridion 1",
-    ];
+        "우리는 짧은 시간이 아니라, 많은 시간을 낭비하고 있는 것이다. 인생은 충분히 길며, 올바르게 사용한다면 가장 위대한 업적을 이룰 수 있을 만큼 넉넉하다. — 세네카, 인생의 짧음에 대하여 (De Brevitate Vitae)",
+        ];
 
     let now = SystemTime::now()
         .duration_since(UNIX_EPOCH)
