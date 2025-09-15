@@ -30,6 +30,7 @@ fn main() {
         "You have power over your mind – not outside events. Realize this, and you will find strength. - Marcus Aurelius, Meditations",
         "The present moment is all that belongs to us; the rest is not ours. — Marcus Aurelius, Meditations",
         "Don’t hope that events will turn out the way you want, welcome events in whichever way they happen: this is the path to peace. — Epictetus",
+        "First say to yourself what you would be;and then do what you have to do. — Epictetus, Discourses II.23.1",
         ];
 
     let now = SystemTime::now()
