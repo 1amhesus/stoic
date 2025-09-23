@@ -32,6 +32,7 @@ fn main() {
         "Don’t hope that events will turn out the way you want, welcome events in whichever way they happen: this is the path to peace. — Epictetus",
         "First say to yourself what you would be;and then do what you have to do. — Epictetus, Discourses II.23.1",
         "Freedom is practiced not in great things but in small ones. - Epictetus",
+        "Wealth consists not in having great possessions, but in having few wants. - Epictetus",
         ];
 
     let now = SystemTime::now()
