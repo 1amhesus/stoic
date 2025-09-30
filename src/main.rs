@@ -33,6 +33,7 @@ fn main() {
         "First say to yourself what you would be;and then do what you have to do. — Epictetus, Discourses II.23.1",
         "Freedom is practiced not in great things but in small ones. - Epictetus",
         "Wealth consists not in having great possessions, but in having few wants. - Epictetus",
+        "He suffers more than necessary, who suffers before it is necessary. — Seneca",
         ];
 
     let now = SystemTime::now()
