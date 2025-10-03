@@ -34,6 +34,7 @@ fn main() {
         "Freedom is practiced not in great things but in small ones. - Epictetus",
         "Wealth consists not in having great possessions, but in having few wants. - Epictetus",
         "He suffers more than necessary, who suffers before it is necessary. — Seneca",
+        "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.— Marcus Aurelius, Meditations",
         ];
 
     let now = SystemTime::now()
