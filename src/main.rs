@@ -37,6 +37,7 @@ fn main() {
         "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present.— Marcus Aurelius, Meditations",
         "照見五蘊皆空 度一切苦厄 - 반야심경",
         "자신의 마음이 흔들릴 때, 즉시 그것을 붙잡아 보라. 그대가 마음을 제어하지 못하면, 그 마음이 곧 그대를 지배할 것이다. - 에픽테토스의 『담화록』",
+        "먼저 해야 할 일을 하라. 말은 나중이다. — 마르쿠스 아우렐리우스 (Meditations)",
         ];
 
     let now = SystemTime::now()
