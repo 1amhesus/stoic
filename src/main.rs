@@ -40,6 +40,7 @@ fn main() {
         "먼저 해야 할 일을 하라. 말은 나중이다. — 마르쿠스 아우렐리우스 (Meditations)",
         "우리의 힘이 미치는 것은 판단뿐이다.",
         "Luck is what happens when preparation meets opportunity. — Seneca",
+        "The happiness of your life depends upon the quality of your thoughts. — Marcus Aurelius, Meditations",
         ];
 
     let now = SystemTime::now()
