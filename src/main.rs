@@ -41,6 +41,7 @@ fn main() {
         "우리의 힘이 미치는 것은 판단뿐이다.",
         "Luck is what happens when preparation meets opportunity. — Seneca",
         "The happiness of your life depends upon the quality of your thoughts. — Marcus Aurelius, Meditations",
+        "It is not the things themselves that disturb us, but our judgements about those things. - Epictetus, Enchiridion, 5",
         ];
 
     let now = SystemTime::now()
