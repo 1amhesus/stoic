@@ -43,6 +43,7 @@ fn main() {
         "The happiness of your life depends upon the quality of your thoughts. — Marcus Aurelius, Meditations",
         "It is not the things themselves that disturb us, but our judgements about those things. - Epictetus, Enchiridion, 5",
         "Things do not change: we change(세상을 바꾸기 위해서는 변화시켜야 하는것이 다른 것이 아니라 바로 우리 자신이다). - Henry David Tboreau",
+        "“Keep company only with people who uplift you, whose presence calls forth your best.— Epictetus",
         ];
 
     let now = SystemTime::now()
