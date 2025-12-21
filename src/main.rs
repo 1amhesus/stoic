@@ -45,7 +45,8 @@ fn main() {
         "Things do not change: we change(세상을 바꾸기 위해서는 변화시켜야 하는것이 다른 것이 아니라 바로 우리 자신이다). - Henry David Tboreau",
         "Keep company only with people who uplift you, whose presence calls forth your best.— Epictetus",
         "Nature is compliant and obedient. Therefore, the Logos that governs nature has no reason to commit evil. The Logos knows nothing of evil, does nothing evil, and harms nothing. And it commands all beginnings and all endings. — Marcus Aurelius",
-        "知之者는 不如好之者요, 好之者는 不如樂之者니라. - 공자",
+        "知之者는 不如好之者요, 好之者는 不如樂之者니라. - 공자"
+        "We suffer more often in imagination than in reality.  — Seneca",
         ];
 
     let now = SystemTime::now()
