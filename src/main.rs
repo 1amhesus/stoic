@@ -47,6 +47,7 @@ fn main() {
         "Nature is compliant and obedient. Therefore, the Logos that governs nature has no reason to commit evil. The Logos knows nothing of evil, does nothing evil, and harms nothing. And it commands all beginnings and all endings. — Marcus Aurelius",
         "知之者는 不如好之者요, 好之者는 不如樂之者니라. - 공자",
         "We suffer more often in imagination than in reality.  — Seneca",
+        "Take rest; a field that has rested gives a bountiful crop. — Ovid (오비드)",
         ];
 
     let now = SystemTime::now()
