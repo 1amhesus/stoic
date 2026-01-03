@@ -74,11 +74,7 @@ fn main() {
        stack pointers and high-resolution timestamps. These values are often manipulated via shifts/XORs.
        Source: https://github.com/bitcoin/bitcoin/issues/14623
 
-        -> Need to Fact-Check : [ ]
-
-     · The answer on “How Bitcoin Core generates entropy” also mentions mixing multiple fast inputs
-       (cycle counters, stack positions, etc.) in a way similar to bit-mixing.
-       Source: https://bitcoin.stackexchange.com/questions/112218
+        -> Need to Fact-Check : [x] "fast" seeding is invoked by GetRandBytes and mixes in stack pointer + high-precision timestamp (merged #14955, src/random.h)
 
 */
 
