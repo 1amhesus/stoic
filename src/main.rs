@@ -48,7 +48,8 @@ fn main() {
         "知之者는 不如好之者요, 好之者는 不如樂之者니라. - 공자",
         "We suffer more often in imagination than in reality.  — Seneca",
         "Take rest; a field that has rested gives a bountiful crop. — Ovid (오비드)",
-        "Objective judgment, now, at this very moment.Unselfish action, now, at this very moment. Willing acceptance—now, at this very moment—of all external events. That’s all you need.",
+        "Objective judgment, now, at this very moment.Unselfish action, now, at this very moment. Willing acceptance—now, at this very moment—of all external events. That’s all you need."
+        "Some things are up to us and some are not up to us. - Epictetus",
         ];
 
     let now = SystemTime::now()
