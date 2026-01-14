@@ -50,7 +50,8 @@ fn main() {
         "Take rest; a field that has rested gives a bountiful crop. — Ovid (오비드)",
         "Objective judgment, now, at this very moment.Unselfish action, now, at this very moment. Willing acceptance—now, at this very moment—of all external events. That’s all you need.",
         "Some things are up to us and some are not up to us. - Epictetus",
-        "You have power over your mind — not outside events. Realize this, and you will find strength. — Marcus Aurelius, Meditations (Book 12, Section 36)"
+        "You have power over your mind — not outside events. Realize this, and you will find strength. — Marcus Aurelius, Meditations (Book 12, Section 36)",
+        "행복으로 가는 길은 단 하나뿐이다. 그것은 우리 힘으로 어찌할 수 없는 일에 대한 걱정을 멈추는 것이다."
         ];
 
     let now = SystemTime::now()
