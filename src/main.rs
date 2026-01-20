@@ -52,7 +52,8 @@ fn main() {
         "Some things are up to us and some are not up to us. - Epictetus",
         "You have power over your mind — not outside events. Realize this, and you will find strength. — Marcus Aurelius, Meditations (Book 12, Section 36)",
         "행복으로 가는 길은 단 하나뿐이다. 그것은 우리 힘으로 어찌할 수 없는 일에 대한 걱정을 멈추는 것이다.",
-        "시간은 가장 신뢰할 수 있는 심판이다. — 마르쿠스 아우렐리우스"
+        "시간은 가장 신뢰할 수 있는 심판이다. — 마르쿠스 아우렐리우스",
+        "Zeno represented the end as: ‘living in agreement’. This is living in accordance with one concordant reason, since those who live in conflict are unhappy... Cleanthes, [Zeno’s] first successor, added ‘with nature’, and represented it as follows: ‘the end is living in agreement with nature’. (Stobaeus, 63B)",
         ];
 
     let now = SystemTime::now()
