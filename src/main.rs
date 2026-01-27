@@ -55,6 +55,7 @@ fn main() {
         "시간은 가장 신뢰할 수 있는 심판이다. — 마르쿠스 아우렐리우스",
         "Zeno represented the end as: ‘living in agreement’. This is living in accordance with one concordant reason, since those who live in conflict are unhappy... Cleanthes, [Zeno’s] first successor, added ‘with nature’, and represented it as follows: ‘the end is living in agreement with nature’. (Stobaeus, 63B)",
         "To bring our mind into this state of agreement and achieve the telos, the Stoics argue that only one thing is needed: virtue. Virtue is the perfected condition of human reason - Seneca, 63D",
+        "engaging in no activity wont to be forbidden by the universal law (ho nomos ho koinos), which is the right reason pervading everything and identical to Zeus - Diogenes Laertius 63C cited above 4.1",
         ];
 
     let now = SystemTime::now()
