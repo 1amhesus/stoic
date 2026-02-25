@@ -56,6 +56,7 @@ fn main() {
         "Zeno represented the end as: ‘living in agreement’. This is living in accordance with one concordant reason, since those who live in conflict are unhappy... Cleanthes, [Zeno’s] first successor, added ‘with nature’, and represented it as follows: ‘the end is living in agreement with nature’. (Stobaeus, 63B)",
         "To bring our mind into this state of agreement and achieve the telos, the Stoics argue that only one thing is needed: virtue. Virtue is the perfected condition of human reason - Seneca, 63D",
         "engaging in no activity wont to be forbidden by the universal law (ho nomos ho koinos), which is the right reason pervading everything and identical to Zeus - Diogenes Laertius 63C cited above 4.1",
+        "바깥 사건이 너를 흔드는 것이 아니라, 그것에 대한 너의 판단이 너를 흔든다. — 에픽테토스",
         ];
 
     let now = SystemTime::now()
