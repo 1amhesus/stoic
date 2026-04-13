@@ -1,8 +1,26 @@
 #!/usr/bin/env rust
 
+mod telos;
+
 use std::time::{SystemTime, UNIX_EPOCH};
+use std::env;
+use telos::TelosMachine;
 
 fn main() {
+    let args: Vec<String> = env::args().collect();
+
+    if args.len() > 1 && args[1] == "telos" {
+        let mut machine = TelosMachine::new();
+
+        machine.show_status();
+        machine.next();
+        machine.show_status();
+        machine.next();
+        machine.show_status();
+    } else {
+        println!("Stoic quote mode");
+    }
+
     let stoic_quotes = vec![
         "The mind is everything; what you think, you become. - Buddha",
         "Simplicity is the ultimate sophistication. - Leonardo da Vinci",
