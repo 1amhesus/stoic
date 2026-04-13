@@ -58,7 +58,8 @@ fn main() {
         "engaging in no activity wont to be forbidden by the universal law (ho nomos ho koinos), which is the right reason pervading everything and identical to Zeus - Diogenes Laertius 63C cited above 4.1",
         "바깥 사건이 너를 흔드는 것이 아니라, 그것에 대한 너의 판단이 너를 흔든다. — 에픽테토스",
         "Appetite and fear are primary, with distress and delight secondary - Stobaeus 65A",
-        "우주 전체의 물질중 그대가 차지하는 비중은 얼마나 작은가. 무한한 시간중 그대에게 할당된 시간은 얼마나 찰나인가. 운명의 사슬 속에서 그대의 역할은 얼마나 보잘것없는가.", 
+        "우주 전체의 물질중 그대가 차지하는 비중은 얼마나 작은가. 무한한 시간중 그대에게 할당된 시간은 얼마나 찰나인가. 운명의 사슬 속에서 그대의 역할은 얼마나 보잘것없는가.",
+        "Character is fate. — Heraclitus",
         ];
 
     let now = SystemTime::now()
